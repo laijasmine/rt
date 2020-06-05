@@ -4,7 +4,7 @@ author: "Bryce Mecum"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{workflows}
+  %\VignetteIndexEntry{Workflows with RT}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
